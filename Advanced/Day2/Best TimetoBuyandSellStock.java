@@ -6,7 +6,6 @@ class Solution {
         for(int i=n-2;i>=0;i--){
             maxa[i]=Math.max(maxa[i+1],prices[i]);
         }
-
         int ans=0;
         for(int i=0;i<prices.length;i++){
             int currp=maxa[i]-prices[i];
