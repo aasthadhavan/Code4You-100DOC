@@ -10,7 +10,8 @@ class Solution {
                 n=n/2;
             } if(n==1) {
                 return true;
-            } else{
+            } 
+            else{
                 return false;
             }
         }
