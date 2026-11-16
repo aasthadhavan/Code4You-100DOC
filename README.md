@@ -1,1 +1,2 @@
-Code4You DSA Practice
+Code4You - Practice
+Data Structures and Algorithms
